@@ -1,0 +1,77 @@
+[
+  {
+    "tagsName": "Introductions",
+    "description": "Introduce yourself to the community!",
+    "photoURL": "https://i.postimg.cc/cLDgYKjp/Introductions.jpg"
+  },
+  {
+    "tagsName": "Forum Rules",
+    "description": "Guidelines and rules for participating in the forum.",
+    "photoURL": "https://i.postimg.cc/JnC1BMrw/Rules.jpg"
+  },
+  {
+    "tagsName": "Programming",
+    "description": "Discussions about coding, programming languages, etc.",
+    "photoURL": "https://i.postimg.cc/G2vmM97h/Programming.jpg"
+  },
+  {
+    "tagsName": "Hardware",
+    "description": "Talk about computer hardware and devices.",
+    "photoURL": "https://i.postimg.cc/SxV8r1Xt/hardware.jpg"
+  },
+  {
+    "tagsName": "Software",
+    "description": "Software discussions, apps, operating systems, etc.",
+    "photoURL": "https://i.postimg.cc/Wb1sZ9v4/software.jpg"
+  },
+  {
+    "tagsName": "AI & Machine Learning",
+    "description": "Discussions about artificial intelligence and machine learning.",
+    "photoURL": "https://i.postimg.cc/yNB9X4YR/ai.jpg"
+  },
+  {
+    "tagsName": "Cybersecurity",
+    "description": "Topics related to cybersecurity, privacy, and online safety.",
+    "photoURL": "https://i.postimg.cc/J0BGCPzm/Cybersecurity.jpg"
+  },
+  {
+    "tagsName": "Visual Arts",
+    "description": "Discussions about painting, drawing, and other visual arts.",
+    "photoURL": "https://i.postimg.cc/rmMBkmyp/Visual-Arts.jpg"
+  },
+  {
+    "tagsName": "Theater & Performing Arts",
+    "description": "Talks about theater, dance, and live performances.",
+    "photoURL": "https://i.postimg.cc/9Qv2vCq4/Theater-Performing-Arts.jpg"
+  },
+  {
+    "tagsName": "Celebrities & Pop Culture",
+    "description": "Gossip, news, and discussions about celebrities and pop culture.",
+    "photoURL": "https://i.postimg.cc/L8kgsCB8/Celebrities-Pop-Culture.jpg"
+  },
+  {
+    "tagsName": "Movies & TV Shows",
+    "description": "Reviews, recommendations, and discussions about films and TV series.",
+    "photoURL": "https://i.postimg.cc/Xq0p39GC/Movies-TV-Shows.jpg"
+  },
+  {
+    "tagsName": "Music",
+    "description": "Talk about favorite bands, genres, and new releases.",
+    "photoURL": "https://i.postimg.cc/zX8VcS1m/music.jpg"
+  },
+  {
+    "tagsName": "Books & Literature",
+    "description": "Book reviews, reading recommendations, and literary discussions.",
+    "photoURL": "https://i.postimg.cc/tJ1VC9DK/Books-Literature.jpg"
+  },
+  {
+    "tagsName": "Food & Drinks",
+    "description": "Discussions about food and beverage pairings, beverages, etc.",
+    "photoURL": "https://i.postimg.cc/bvCxzVp2/Food-Drinks.jpg"
+  },
+  {
+    "tagsName": "Travel",
+    "description": "Share travel experiences, tips, and favorite destinations.",
+    "photoURL": "https://i.postimg.cc/jqZbRz7Y/Travel.jpg"
+  }
+]
